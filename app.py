@@ -12,5 +12,4 @@ while current_index < arr_length:
 
     current_index += 1
     arr[prev_i + 1] = current_element
-
 print(arr)        
